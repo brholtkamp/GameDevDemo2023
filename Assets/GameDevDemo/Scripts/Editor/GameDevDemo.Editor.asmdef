@@ -1,0 +1,17 @@
+{
+    "name": "GameDevDemo.Editor",
+    "references": [
+        "GUID:21f9d0d24db4e3d41983bdbc258b7475"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
